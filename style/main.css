@@ -230,11 +230,13 @@ section:last-child:hover {
 }
 
 
-
-
 .section-container {
     margin: 2rem;
     min-width: 200px;
+}
+
+.title-div p {
+    color: var(--GRAYISH-BLUE);
 }
 
 .icon-div {
